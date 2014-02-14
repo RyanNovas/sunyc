@@ -161,15 +161,14 @@ function rerender (changedEntry) {
 $(function () {
 
  var words = [
-    ['Placid', 'calm; peaceful'],
-        ['Labyrinth', 'A maze'],
-        ['Replete', 'Full'],
-        ['Tangible', 'Can be touched'],
-        ['Hasten', 'Hurry; accelerate; rush'],
-    ['Nuance', 'something subtle; a fine shade of meaning'],
-    ['Tangent', 'going off the main subject'],
-    ['Enhance', 'improve; make better or clearer'],
-    ['Renown', 'fame']];
+    ['Deliberate', 'carefully weighed or considered'],
+        ['Triumph', 'to be victorious; to defeat'],
+        ['Numb', 'unable to feel'],
+        ['Tether', 'to attach (often to a rope or chain)'],
+        ['Prod', 'to poke, bother or aggravate'],
+    ['Disclose', 'to reveal or uncover; to make known'],
+    ['Culprit', 'person who is guilty or responsible for an action'],
+    ['Employed', 'to work for']];
         
   var wordsD = words.map(function (pair) {    
     return $('<div></div>').addClass('vocab-pair')
