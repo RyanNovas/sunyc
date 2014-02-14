@@ -168,7 +168,7 @@ $(function () {
         ['Prod', 'to poke, bother or aggravate'],
     ['Disclose', 'to reveal or uncover; to make known'],
     ['Culprit', 'person who is guilty or responsible for an action'],
-    ['Employed', 'to work for']];
+    ['Employ', 'to work for']];
         
   var wordsD = words.map(function (pair) {    
     return $('<div></div>').addClass('vocab-pair')
