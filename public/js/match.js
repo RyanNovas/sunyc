@@ -161,15 +161,14 @@ function rerender (changedEntry) {
 $(function () {
 
  var words = [
-    ['Placid', 'calm; peaceful'],
-        ['Labyrinth', 'A maze'],
-        ['Replete', 'Full'],
-        ['Tangible', 'Can be touched'],
-        ['Hasten', 'Hurry; accelerate; rush'],
-    ['Nuance', 'something subtle; a fine shade of meaning'],
-    ['Tangent', 'going off the main subject'],
-    ['Enhance', 'improve; make better or clearer'],
-    ['Renown', 'fame']];
+    ['Adaptation', 'the process of changing to fit some purpose or situation'],
+      	['Habitat', 'the place where something is commonly found'],
+        ['Bayou', 'area of sluggish, slow moving water'],
+        ['Retreat', 'to move back or withdraw from a threat; a quiet or secluded place to relax or recover'],
+        ['Cascade', 'a small, steep waterfall; a large number of things that happen quickly in a series'],
+    ['Rumble', 'a low, heavy sound; to travel while making a continuous deep noise; to fight'],
+    ['Attract', 'cause someone or something to have a liking for or interest in something'],
+    ['Emerge', 'become apparent, important, or prominent']];
         
   var wordsD = words.map(function (pair) {    
     return $('<div></div>').addClass('vocab-pair')
