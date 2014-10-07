@@ -60,5 +60,91 @@
          }
       ],
       "prompt" : "The Boy Who Loved Words"
+   },
+   "3" : {
+      "wordList" : [
+         {
+            "word" : "government",
+            "definition" : "the group of people who control and make decisions for a country, state, etc."
+         },
+         {
+            "word" : "pesiticide",
+            "definition" : "a chemical that is used to kill animals or insects that damage plants or crops"
+         },
+         {
+            "word" : "hybrid",
+            "definition" : "something that is formed by combining two or more things"
+         },
+         {
+            "word" : "ecological",
+            "definition" : "a science that deals with the relationships between groups of living things and their environments"
+         },
+         {
+            "word" : "fossil fuel",
+            "definition" : "a fuel (such as coal, oil, or natural gas) that is formed in the earth from dead plants or animals"
+         },
+         {  "word" : "calorie"
+            "definition" : "a unit of heat used to indicate the amount of energy that foods will produce in the human body"
+         },
+         {  "word" : "policy"
+            "definition" : "a high-level overall plan embracing the general goals and acceptable procedures especially of a governmental body"
+      ],
+      "prompt" : "How do you think we might be taking risks with our health and the health of the human world by being part of the industrial food chain?"
+      },
+      "3" : {
+      "wordList" : [
+         {
+            "word" : "government",
+            "definition" : "the group of people who control and make decisions for a country, state, etc."
+         },
+         {
+            "word" : "pesiticide",
+            "definition" : "a chemical that is used to kill animals or insects that damage plants or crops"
+         },
+         {
+            "word" : "hybrid",
+            "definition" : "something that is formed by combining two or more things"
+         },
+         {
+            "word" : "ecological",
+            "definition" : "a science that deals with the relationships between groups of living things and their environments"
+         },
+         {
+            "word" : "fossil fuel",
+            "definition" : "a fuel (such as coal, oil, or natural gas) that is formed in the earth from dead plants or animals"
+         },
+         {  "word" : "calorie"
+            "definition" : "a unit of heat used to indicate the amount of energy that foods will produce in the human body"
+         },
+         {  "word" : "policy"
+            "definition" : "a high-level overall plan embracing the general goals and acceptable procedures especially of a governmental body"
+      ],
+      "prompt" : "How do you think we might be taking risks with our health and the health of the human world by being part of the industrial food chain?"
+      },
+      "4" : {
+      "wordList" : [
+         {
+            "word" : "thwart",
+            "definition" : "oppose successfully; prevent from accomplishing a purpose"
+         },
+         {
+            "word" : "hinder",
+            "definition" : "prevented from doing, acting, or happening"
+         },
+         {
+            "word" : "morbid",
+            "definition" : "suggesting an unhealthy mental state or attitude; unwholesomely gloomy, sensitive, extreme, etc."
+         },
+         {
+            "word" : "asunder",
+            "definition" : "into seperate parts; in or into pieces"
+         },
+         {
+            "word" : "chastity",
+            "definition" : " the state of refraining from sexual intercourse that is regarded as contrary to morality or religion "
+         },
+      ],
+      "prompt" : "Woolf claims that the particular social realities in which women live create distinctively female values and outlooks. Does she think this is a good thing or a bad thing?"
+      },
+      "5" : {
    }
-}
