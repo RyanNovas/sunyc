@@ -61,7 +61,7 @@
       ],
       "prompt" : "The Boy Who Loved Words"
    },
-      "3" : {
+   "3" : {
       "wordList" : [
          {
             "word" : "government",
@@ -90,8 +90,8 @@
             "definition" : "a high-level overall plan embracing the general goals and acceptable procedures especially of a governmental body"
       ],
       "prompt" : "How do you think we might be taking risks with our health and the health of the human world by being part of the industrial food chain?"
-      },
-      "4" : {
+   },
+   "4" : {
       "wordList" : [
          {
             "word" : "thwart",
@@ -115,8 +115,8 @@
          },
       ],
       "prompt" : "Woolf claims that the particular social realities in which women live create distinctively female values and outlooks. Do you think this is a good thing or a bad thing?"
-      },
-      "5" : {
+   },
+   "5" : {
       "wordList" : [
          {
             "word" : "evaporation",
